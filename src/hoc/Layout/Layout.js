@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 
-import Aux from '../Aux';
+import Aux from '../Auxilary';
 import classes from './Layout.css';
 import Toolbar from '../../components/Navigation/Toolbar';
 import SideDrawer from '../../components/Navigation/SideDrawer/SideDrawer';
